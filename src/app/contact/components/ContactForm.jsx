@@ -189,7 +189,7 @@ export function ContactForm() {
                     disabled={submitting}
                     className="group/send inline-flex h-12 items-center gap-2.5 rounded-full bg-saffron px-7 text-[0.9375rem] font-medium text-ink shadow-[0_0_0_1px_rgba(245,197,24,0.4),0_8px_30px_-8px_rgba(245,197,24,0.5)] transition-all hover:bg-saffron-400 hover:shadow-[0_0_0_1px_rgba(245,197,24,0.6),0_12px_40px_-8px_rgba(245,197,24,0.7)] disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:bg-saffron disabled:hover:shadow-[0_0_0_1px_rgba(245,197,24,0.4),0_8px_30px_-8px_rgba(245,197,24,0.5)]"
                   >
-                    {submitting ? "Sending…" : "Send and book the call"}
+                    {submitting ? "Sending…" : "Send"}
                     {!submitting && (
                       <RxArrowTopRight className="size-4 transition-transform duration-300 group-hover/send:-translate-y-0.5 group-hover/send:translate-x-0.5" />
                     )}
