@@ -53,7 +53,6 @@ export const metadata = {
       "An AI Transformation Partner for US businesses. We figure it out, build it, and train your team to use it.",
     images: ["/img/og-card.jpg"],
   },
-  icons: { icon: "/favicon.ico" },
 };
 
 export default function RootLayout({ children }) {
