@@ -1,6 +1,5 @@
 import { POSTS } from "./_data/posts";
-
-const SITE = "https://maxera.ai";
+import { SITE_URL as SITE } from "./_data/site";
 
 export default function sitemap() {
   const now = new Date();

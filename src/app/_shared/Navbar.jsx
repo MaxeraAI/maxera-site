@@ -30,6 +30,7 @@ export function Navbar() {
   }, [open]);
 
   return (
+    <>
     <header
       className={clsx(
         "fixed inset-x-0 top-0 z-[100] transition-all duration-500",
@@ -94,9 +95,10 @@ export function Navbar() {
           />
         </button>
       </div>
+    </header>
 
-      <AnimatePresence>
-        {open && (
+    <AnimatePresence>
+      {open && (
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
@@ -157,8 +159,8 @@ export function Navbar() {
             </motion.nav>
           </motion.div>
         )}
-      </AnimatePresence>
-    </header>
+    </AnimatePresence>
+    </>
   );
 }
 

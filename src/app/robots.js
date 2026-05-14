@@ -1,4 +1,4 @@
-const SITE = "https://maxera.ai";
+import { SITE_URL as SITE } from "./_data/site";
 
 export default function robots() {
   return {

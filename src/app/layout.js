@@ -2,6 +2,7 @@ import { Instrument_Serif, Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "./_shared/Navbar";
 import { Footer } from "./_shared/Footer";
+import { SITE_URL } from "./_data/site";
 
 const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
@@ -24,7 +25,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://maxera.ai"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Maxera · Stop reading about AI. Start putting it to work.",
     template: "%s · Maxera",
