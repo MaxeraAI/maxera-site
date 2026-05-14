@@ -35,7 +35,7 @@ export function BlogHero() {
           transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
           className="body-lead mt-10 max-w-2xl text-lg text-ink-100 md:text-xl"
         >
-          Plain-language writing for owners and operators who'd rather build than read about building. What's worth shipping, what's hype, what we see across home services, agencies, ecommerce, and everything else.
+          Plain-language writing for owners and operators who’d rather build than read about building. What’s worth shipping, what’s hype, what we see across home services, agencies, ecommerce, and everything else.
         </motion.p>
       </Container>
     </section>

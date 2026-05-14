@@ -29,7 +29,7 @@ export const POSTS = [
   {
     slug: "/blog/stop-reading-about-ai",
     title: "Stop reading about AI. Start putting it to work.",
-    dek: "Most owners we talk to have read every AI thread on LinkedIn and watched every YouTube tutorial. They're more confused than when they started. Here's the simpler way to think about it.",
+    dek: "Most owners we talk to have read every AI thread on LinkedIn and watched every YouTube tutorial. They’re more confused than when they started. Here’s the simpler way to think about it.",
     category: "Strategy",
     readTime: "6 min",
     date: "May 02, 2026",
@@ -38,7 +38,7 @@ export const POSTS = [
   {
     slug: "/blog/strategy-deck-consulting",
     title: "Why strategy-deck consulting rarely ships anything",
-    dek: "The strategy-deck consultancy model has the wrong incentives baked in. A look at why advisory engagements stall, and what 'we deliver, we don't just advise' actually changes.",
+    dek: "The strategy-deck consultancy model has the wrong incentives baked in. A look at why advisory engagements stall, and what 'we deliver, we don’t just advise' actually changes.",
     category: "Method",
     readTime: "5 min",
     date: "Apr 21, 2026",
@@ -46,8 +46,8 @@ export const POSTS = [
   },
   {
     slug: "/blog/front-desk-admin-work",
-    title: "The four hours a day your front desk shouldn't be doing",
-    dek: "Missed-call follow-up, appointment confirmations, review chasing. The admin work that quietly eats half the team's morning, and why it's the cleanest place to start with AI.",
+    title: "The four hours a day your front desk shouldn’t be doing",
+    dek: "Missed-call follow-up, appointment confirmations, review chasing. The admin work that quietly eats half the team’s morning, and why it’s the cleanest place to start with AI.",
     category: "Field notes",
     readTime: "5 min",
     date: "Apr 03, 2026",
@@ -55,7 +55,7 @@ export const POSTS = [
   },
   {
     slug: "/blog/ai-voice-agents",
-    title: "What an AI voice agent actually does (and doesn't)",
+    title: "What an AI voice agent actually does (and doesn’t)",
     dek: "A plain-language walkthrough of what voice agents handle, what they hand off, and the four mistakes most owners make when deploying them.",
     category: "Method",
     readTime: "7 min",
@@ -64,8 +64,8 @@ export const POSTS = [
   },
   {
     slug: "/blog/ai-tool-not-working",
-    title: "Bought an AI tool that isn't working? You're not alone.",
-    dek: "We hear this every week. Companies bought AI tools, never deployed them properly, and assumed AI doesn't work for them. Here's how to tell what's worth saving.",
+    title: "Bought an AI tool that isn’t working? You’re not alone.",
+    dek: "We hear this every week. Companies bought AI tools, never deployed them properly, and assumed AI doesn’t work for them. Here’s how to tell what’s worth saving.",
     category: "Strategy",
     readTime: "4 min",
     date: "Mar 02, 2026",
@@ -74,7 +74,7 @@ export const POSTS = [
   {
     slug: "/blog/built-by-us-owned-by-you",
     title: "Built by us, owned by you",
-    dek: "Why we don't host the systems we build, won't lock you in, and hand over every piece of infrastructure at the end of the engagement.",
+    dek: "Why we don’t host the systems we build, won’t lock you in, and hand over every piece of infrastructure at the end of the engagement.",
     category: "Operating",
     readTime: "5 min",
     date: "Feb 14, 2026",

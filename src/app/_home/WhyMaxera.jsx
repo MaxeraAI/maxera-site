@@ -6,7 +6,7 @@ import { Container, SectionHeader } from "../_shared/ui";
 const PILLARS = [
   {
     n: "i",
-    title: "We deliver, we don't just advise.",
+    title: "We deliver, we don’t just advise.",
     body:
       "Most AI consultants will hand you a 40-slide deck and disappear after the kickoff. We build what we recommend. Every engagement ends with something running in your business, not a PDF rotting in your Google Drive.",
   },
@@ -14,13 +14,13 @@ const PILLARS = [
     n: "ii",
     title: "We tailor everything.",
     body:
-      "We don't sell pre-built solutions. We don't show up with a chatbot template. Before we propose anything, we go deep into your operations and find the AI opportunities that fit your business specifically. What works for a marketing agency doesn't work for an ecommerce brand. We know the difference because we do the work.",
+      "We don’t sell pre-built solutions. We don’t show up with a chatbot template. Before we propose anything, we go deep into your operations and find the AI opportunities that fit your business specifically. What works for a marketing agency doesn’t work for an ecommerce brand. We know the difference because we do the work.",
   },
   {
     n: "iii",
     title: "We stay involved.",
     body:
-      "AI isn't a one-time install. Models change. Your business changes. The companies winning with AI right now treat it as an ongoing capability, not a finished project. We stay involved after launch to keep the systems performing, retrain them as needed, and find new opportunities as they appear.",
+      "AI isn’t a one-time install. Models change. Your business changes. The companies winning with AI right now treat it as an ongoing capability, not a finished project. We stay involved after launch to keep the systems performing, retrain them as needed, and find new opportunities as they appear.",
   },
 ];
 

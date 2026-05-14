@@ -7,7 +7,7 @@ const STEPS = [
   {
     n: "01",
     name: "Find",
-    title: "We figure out what's worth building.",
+    title: "We figure out what’s worth building.",
     body:
       "Every business is different. Before we build anything, we go deep into yours. We talk to your team, map your operations, and identify the AI opportunities that will actually move the needle for your specific situation. No generic playbooks. No copy-paste solutions.",
     diagram: <DiagnoseDiagram />,
@@ -25,7 +25,7 @@ const STEPS = [
     name: "Stay",
     title: "We train your team and stay involved.",
     body:
-      "The reason most AI projects fail is because the team never adopts them. We don't just hand you a tool and walk away. We train your team, monitor what's running, and keep improving the systems as your business changes.",
+      "The reason most AI projects fail is because the team never adopts them. We don’t just hand you a tool and walk away. We train your team, monitor what’s running, and keep improving the systems as your business changes.",
     diagram: <SustainDiagram />,
   },
 ];

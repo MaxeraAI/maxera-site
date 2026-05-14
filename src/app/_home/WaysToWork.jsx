@@ -9,14 +9,14 @@ const TIERS = [
     name: "AI Diagnostic",
     best: "Best for businesses starting their AI journey.",
     body:
-      "A focused diagnostic of where AI fits in your specific business. We interview your team, map your operations, identify the highest-ROI opportunities, and deliver a written plan with priorities, projected impact, and a roadmap. You walk away with clarity on what's worth building, what isn't, and where to start. Many clients use this as the foundation for a full transformation. Some use it as a standalone tool to guide their own internal decisions.",
+      "A focused diagnostic of where AI fits in your specific business. We interview your team, map your operations, identify the highest-ROI opportunities, and deliver a written plan with priorities, projected impact, and a roadmap. You walk away with clarity on what’s worth building, what isn’t, and where to start. Many clients use this as the foundation for a full transformation. Some use it as a standalone tool to guide their own internal decisions.",
   },
   {
     n: "ii",
     name: "AI Transformation",
     best: "Best for companies ready to build and deploy.",
     body:
-      "A multi-week engagement where we identify, design, build, deploy, and launch the AI systems your business needs. End-to-end. From the operational diagnostic to the moment the systems are running and your team is trained on them. This is the most common way clients work with us, and it's where most of the measurable ROI happens.",
+      "A multi-week engagement where we identify, design, build, deploy, and launch the AI systems your business needs. End-to-end. From the operational diagnostic to the moment the systems are running and your team is trained on them. This is the most common way clients work with us, and it’s where most of the measurable ROI happens.",
   },
   {
     n: "iii",

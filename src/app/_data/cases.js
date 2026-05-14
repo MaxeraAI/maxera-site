@@ -14,7 +14,7 @@ export const CASE_STUDIES = [
       { v: "After-hours", l: "leads no longer lost overnight" },
     ],
     headline:
-      "Their phone got answered. Their website forms and after-hours leads didn't.",
+      "Their phone got answered. Their website forms and after-hours leads didn’t.",
     detail:
       "Form submissions sat for hours before anyone responded. Nights and weekends, leads went straight to the next morning. We built an AI lead response system that texts and calls every new lead within 60 seconds, 24/7. The competitor who used to win every after-hours job started losing them.",
   },
@@ -31,7 +31,7 @@ export const CASE_STUDIES = [
       { v: "Strategy", l: "instead of status emails" },
     ],
     headline:
-      "The team was buried in client work that didn't need humans. Reporting, drafting, intake, status updates.",
+      "The team was buried in client work that didn’t need humans. Reporting, drafting, intake, status updates.",
     detail:
       "We built a custom AI workflow stack tied to the tools they already used. The senior team got back nearly a full week per month to focus on strategy and growth, not status emails.",
   },

@@ -39,9 +39,9 @@ export function AboutHero() {
           transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
           className="body-lead mt-12 max-w-2xl text-lg text-ink-100 md:text-xl"
         >
-          Maxera is an AI Transformation Partner for US businesses. We figure out what's worth building, then we
+          Maxera is an AI Transformation Partner for US businesses. We figure out what’s worth building, then we
           build it, deploy it, and train your team to use it. We are not a tool reseller, not a strategy-deck consultancy,
-          not a chatbot agency. We are the team that takes AI from a thing you've been reading about to a thing your business runs on.
+          not a chatbot agency. We are the team that takes AI from a thing you’ve been reading about to a thing your business runs on.
         </motion.p>
       </Container>
     </section>

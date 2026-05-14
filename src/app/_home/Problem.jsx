@@ -36,8 +36,8 @@ export function Problem() {
         >
           <p className="body-lead text-lg text-ink-100 md:text-xl">
             Most operators have already tried AI. A tool here. A subscription there. Maybe an experiment
-            or two. That's not the win. The win is an AI system wired into your business. Internal workflows
-            that talk to each other. Decisions made from your own data, not someone else's templates. A
+            or two. That’s not the win. The win is an AI system wired into your business. Internal workflows
+            that talk to each other. Decisions made from your own data, not someone else’s templates. A
             founder dashboard that runs on live data instead of week-old spreadsheets.
           </p>
           <p className="body-lead mt-6 text-lg text-ink-100 md:text-xl">

@@ -48,7 +48,7 @@ export async function POST(request) {
       `Role: ${String(role).trim() || "(not specified)"}`,
       `Timeline: ${String(timeline).trim() || "(not specified)"}`,
       "",
-      "What's the most expensive piece of work in your business right now?",
+      "What’s the most expensive piece of work in your business right now?",
       "",
       messageTrim,
     ].join("\n");

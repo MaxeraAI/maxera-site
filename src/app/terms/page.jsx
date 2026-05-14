@@ -39,7 +39,7 @@ export default function Page() {
 
               <h2>2. About the Site and our services</h2>
               <p>
-                The Site is an informational website describing Maxera's AI transformation services for
+                The Site is an informational website describing Maxera’s AI transformation services for
                 United States businesses. Engagement of any professional services is governed by a separate
                 written agreement between you and Maxera. Nothing on the Site constitutes a binding offer to
                 provide services.
@@ -115,7 +115,7 @@ export default function Page() {
                 SUCH DAMAGES.
               </p>
               <p>
-                MAXERA'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATING TO THE SITE (AS DISTINCT
+                MAXERA’S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATING TO THE SITE (AS DISTINCT
                 FROM ANY SEPARATE SIGNED SERVICES AGREEMENT) WILL NOT EXCEED ONE HUNDRED U.S. DOLLARS
                 ($100). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO
                 THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU IN FULL.

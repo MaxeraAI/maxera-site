@@ -99,13 +99,13 @@ function PostBody() {
 
             <h2>01 · The problem. Leads leaking after hours.</h2>
             <p>
-              The phones got answered. The website forms didn't. Submissions sat for hours before anyone got back
+              The phones got answered. The website forms didn’t. Submissions sat for hours before anyone got back
               to them, and at night or on weekends, leads went straight to the next morning. By then, the homeowner
               had already booked with the first company that called back.
             </p>
             <p>
-              It wasn't a sales problem. It was a response-time problem. The team was good on the phone when they
-              were on the phone. The gap was every hour they weren't, which on most weeks added up to more hours
+              It wasn’t a sales problem. It was a response-time problem. The team was good on the phone when they
+              were on the phone. The gap was every hour they weren’t, which on most weeks added up to more hours
               than they were.
             </p>
 
@@ -122,7 +122,7 @@ function PostBody() {
               the team to learn.
             </p>
             <p>
-              Edge cases (escalations, callbacks the AI couldn't handle, anything weird) get escalated to a
+              Edge cases (escalations, callbacks the AI couldn’t handle, anything weird) get escalated to a
               human with full context attached. The team is doing real work, not babysitting the inbox.
             </p>
 
@@ -133,7 +133,7 @@ function PostBody() {
 
             <h2>03 · What changed. Booked job rate up, after-hours leads no longer lost.</h2>
             <p>
-              The booked-job rate from inbound leads moved up meaningfully. The kind of lift you'd expect when a
+              The booked-job rate from inbound leads moved up meaningfully. The kind of lift you’d expect when a
               response that used to take two hours now takes sixty seconds, and when leads that used to die
               overnight get a same-day reply. Same leads, same team, different operating speed.
             </p>
@@ -143,7 +143,7 @@ function PostBody() {
               confirmation in their inbox by 8:01.
             </p>
             <p>
-              These outcomes vary. They're not a guarantee. They're the patterns we see in home services
+              These outcomes vary. They’re not a guarantee. They’re the patterns we see in home services
               operations when the response time becomes the product, and when AI handles the part of the funnel
               that no human team can cover at 11pm on a Saturday.
             </p>

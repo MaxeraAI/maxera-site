@@ -8,7 +8,7 @@ import { StackSlide } from "../_shared/ui";
 export const metadata = {
   title: "About",
   description:
-    "Maxera is an AI Transformation Partner for US businesses. We figure out what's worth building, then we build it, deploy it, and train your team to use it.",
+    "Maxera is an AI Transformation Partner for US businesses. We figure out what’s worth building, then we build it, deploy it, and train your team to use it.",
 };
 
 export default function Page() {

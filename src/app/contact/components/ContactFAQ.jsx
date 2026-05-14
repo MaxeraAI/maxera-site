@@ -7,7 +7,7 @@ import { Container, SectionHeader } from "../../_shared/ui";
 const ITEMS = [
   {
     q: "What does the first call actually look like?",
-    a: "Fifteen minutes, on the phone or video. Your pick. We talk about your business, the things slowing you down, and whether AI can actually help. No slides, no pitch, no pressure. If we're not the right fit, we'll tell you on the call.",
+    a: "Fifteen minutes, on the phone or video. Your pick. We talk about your business, the things slowing you down, and whether AI can actually help. No slides, no pitch, no pressure. If we’re not the right fit, we’ll tell you on the call.",
   },
   {
     q: "Will I get a quote on the first call?",
@@ -19,7 +19,7 @@ const ITEMS = [
   },
   {
     q: "Can you sign an NDA before we share details?",
-    a: "Yes. Mention it when you reach out and we'll send one over before we exchange anything specific.",
+    a: "Yes. Mention it when you reach out and we’ll send one over before we exchange anything specific.",
   },
 ];
 
@@ -32,7 +32,7 @@ export function ContactFAQ() {
             <SectionHeader
               eyebrow="Before you write"
               title="A few quick answers."
-              lede="Things we get asked in the first message, so you don't have to ask them in the first message."
+              lede="Things we get asked in the first message, so you don’t have to ask them in the first message."
             />
           </div>
           <div className="lg:col-span-7">

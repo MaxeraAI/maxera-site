@@ -99,13 +99,13 @@ function PostBody() {
 
             <h2>01 · The problem. Senior people doing junior work.</h2>
             <p>
-              The senior team was buried in client work that didn't need humans. Reporting. Proposal drafting.
+              The senior team was buried in client work that didn’t need humans. Reporting. Proposal drafting.
               Intake forms. Status updates. The same five email templates rewritten for every client every
               Friday. Strategists were doing admin. Senior people were doing junior work. Junior people were
               doing nothing because there was nothing left to delegate.
             </p>
             <p>
-              It wasn't a capacity problem in the traditional sense. The hours were there. The problem was that
+              It wasn’t a capacity problem in the traditional sense. The hours were there. The problem was that
               the wrong people were spending them, and the work that mattered (strategy, creative direction,
               client relationships) kept getting pushed to the end of the week and out the door.
             </p>
@@ -118,18 +118,18 @@ function PostBody() {
             </p>
             <p>
               The stack drafts weekly client reports from live campaign data. It pulls intake responses into
-              structured briefs. It writes first-pass proposals against the client's history, scope, and the
-              agency's pricing logic. It generates status emails the senior team reviews and sends, instead of
+              structured briefs. It writes first-pass proposals against the client’s history, scope, and the
+              agency’s pricing logic. It generates status emails the senior team reviews and sends, instead of
               writing from scratch.
             </p>
             <p>
-              Every output goes through a human. The point isn't to remove the senior team from the work. The
-              point is to remove them from the parts of the work that didn't need them in the first place.
+              Every output goes through a human. The point isn’t to remove the senior team from the work. The
+              point is to remove them from the parts of the work that didn’t need them in the first place.
             </p>
 
             <blockquote>
-              We hired strategists. They were spending half their week writing status emails. That's not why
-              they're here.
+              We hired strategists. They were spending half their week writing status emails. That’s not why
+              they’re here.
               <cite>Illustrative scenario · The kind of feedback we hear from an agency partner</cite>
             </blockquote>
 
@@ -137,7 +137,7 @@ function PostBody() {
             <p>
               The senior team reclaimed roughly twenty-eight hours a week, close to a full week a month per
               person, and put it back into strategy, creative work, and the client conversations that
-              actually grow accounts. The work that ships didn't change. The work the senior team did on the
+              actually grow accounts. The work that ships didn’t change. The work the senior team did on the
               way to shipping it did.
             </p>
             <p>
@@ -145,9 +145,9 @@ function PostBody() {
               bottleneck was the admin between strategy and delivery. With that out of the way, things move.
             </p>
             <p>
-              These outcomes vary. They're not a guarantee. They're the patterns we see in agencies when AI
+              These outcomes vary. They’re not a guarantee. They’re the patterns we see in agencies when AI
               gets built around the work the team actually does, integrated into the tools they already use,
-              and adopted because it's easier than the old way.
+              and adopted because it’s easier than the old way.
             </p>
           </div>
         </article>

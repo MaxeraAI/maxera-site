@@ -12,7 +12,7 @@ const CAPS = [
   {
     name: "Custom automations",
     body:
-      "End-to-end workflows tied to the tools you already use. Reporting, proposal drafting, intake, follow-up, dispatch. Anything that's currently eating your team's time.",
+      "End-to-end workflows tied to the tools you already use. Reporting, proposal drafting, intake, follow-up, dispatch. Anything that’s currently eating your team’s time.",
   },
   {
     name: "Internal AI copilots",
@@ -22,7 +22,7 @@ const CAPS = [
   {
     name: "Training, rollout & ongoing care",
     body:
-      "We don't drop and disappear. Engagement includes team training, adoption tracking, and ongoing tuning as your business and the underlying models evolve.",
+      "We don’t drop and disappear. Engagement includes team training, adoption tracking, and ongoing tuning as your business and the underlying models evolve.",
   },
 ];
 

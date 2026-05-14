@@ -158,14 +158,14 @@ export function ContactForm() {
 
                 <div className="mt-10">
                   <label htmlFor="message" className="label-mono text-ink-300">
-                    What's the most expensive piece of work in your business right now?
+                    What’s the most expensive piece of work in your business right now?
                   </label>
                   <textarea
                     id="message"
                     name="message"
                     required
                     rows={6}
-                    placeholder="The thing your team complains about. The thing you'd hire someone for if you could find one. The thing you're tired of doing manually. We'll figure out if AI can handle it."
+                    placeholder="The thing your team complains about. The thing you’d hire someone for if you could find one. The thing you’re tired of doing manually. We’ll figure out if AI can handle it."
                     className="mt-3 block w-full resize-y rounded-sm border border-ink-50/15 bg-transparent px-4 py-4 text-[0.9375rem] text-ink-50 placeholder:text-ink-300 transition-colors focus:border-saffron/60 focus:outline-none"
                   />
                 </div>
@@ -239,10 +239,10 @@ function Submitted() {
     <div className="py-10 text-center">
       <p className="label-mono text-saffron">Sent</p>
       <h3 className="heading-3 mt-6 text-3xl text-ink-50 sm:text-4xl md:text-5xl">
-        Thanks. You'll hear from us within one business day.
+        Thanks. You’ll hear from us within one business day.
       </h3>
       <p className="body-lead mt-6 mx-auto max-w-md text-ink-200">
-        We will reply within one business day with a time to talk. If the work isn't right for us we will tell you that too, and try to point you somewhere that fits.
+        We will reply within one business day with a time to talk. If the work isn’t right for us we will tell you that too, and try to point you somewhere that fits.
       </p>
     </div>
   );

@@ -87,7 +87,7 @@ export function Footer() {
           <div className="lg:min-w-0 lg:flex-1">
             <h4 className="label-mono text-ink-300">Field notes</h4>
             <p className="mt-5 max-w-md text-[0.9375rem] text-ink-200">
-              Plain-language writing for owners and operators. What's worth building, what's hype, what we keep seeing.
+              Plain-language writing for owners and operators. What’s worth building, what’s hype, what we keep seeing.
             </p>
             <form
               onSubmit={async (e) => {
@@ -134,7 +134,7 @@ export function Footer() {
             </form>
             {status === "error" && (
               <p className="mt-3 text-xs text-red-300" role="alert">
-                Couldn't sign you up just now. Please try again or email us directly.
+                Couldn’t sign you up just now. Please try again or email us directly.
               </p>
             )}
           </div>

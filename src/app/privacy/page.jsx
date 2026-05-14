@@ -134,7 +134,7 @@ export default function Page() {
                 electronic storage is completely secure, and we cannot guarantee absolute security.
               </p>
 
-              <h2>8. Children's privacy</h2>
+              <h2>8. Children’s privacy</h2>
               <p>
                 The Site is not directed to children under thirteen (13), and we do not knowingly collect
                 personal information from children under thirteen. If you believe a child under thirteen has

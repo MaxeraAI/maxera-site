@@ -6,7 +6,7 @@ import { Container, Eyebrow } from "../../_shared/ui";
 const PRINCIPLES = [
   {
     n: "i",
-    title: "We deliver, we don't just advise.",
+    title: "We deliver, we don’t just advise.",
     body:
       "Every engagement ends with something running in your business, not a PDF in your Google Drive. We build what we recommend.",
   },
@@ -14,29 +14,29 @@ const PRINCIPLES = [
     n: "ii",
     title: "We tailor everything.",
     body:
-      "What works for a dental practice doesn't work for a marketing agency. We study your business first, then propose. No copy-paste solutions.",
+      "What works for a dental practice doesn’t work for a marketing agency. We study your business first, then propose. No copy-paste solutions.",
   },
   {
     n: "iii",
     title: "We stay involved after launch.",
     body:
-      "AI isn't a one-time install. We stay close to keep the systems performing, retrain them as models change, and find new opportunities as they appear.",
+      "AI isn’t a one-time install. We stay close to keep the systems performing, retrain them as models change, and find new opportunities as they appear.",
   },
   {
     n: "iv",
     title: "Adoption is the deliverable.",
     body:
-      "Most AI projects fail because the team never adopts them. We don't hand you a tool and walk away. Training and rollout are part of every engagement.",
+      "Most AI projects fail because the team never adopts them. We don’t hand you a tool and walk away. Training and rollout are part of every engagement.",
   },
   {
     n: "v",
     title: "Plain language, no buzzwords.",
     body:
-      "Our clients are owners and operators, not AI researchers. We translate the technology into something useful for your business. You don't need to study up.",
+      "Our clients are owners and operators, not AI researchers. We translate the technology into something useful for your business. You don’t need to study up.",
   },
   {
     n: "vi",
-    title: "Founder-led or it's not us.",
+    title: "Founder-led or it’s not us.",
     body:
       "You work directly with the founder and core team. There is no analyst layer between you and the people building your systems.",
   },
@@ -48,7 +48,7 @@ export function Principles() {
       <Container>
         <Eyebrow index={1}>Operating principles</Eyebrow>
         <h2 className="heading-2 mt-7 max-w-3xl text-4xl text-ink-50 sm:text-5xl md:text-6xl lg:text-7xl">
-          Six rules we don't break.
+          Six rules we don’t break.
         </h2>
 
         <div className="mt-20 grid grid-cols-1 gap-px bg-ink-50/10 sm:grid-cols-2 lg:grid-cols-3">

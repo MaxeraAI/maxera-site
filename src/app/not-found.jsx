@@ -3,7 +3,7 @@ import { Container, Eyebrow, Button, TopographyBackground } from "./_shared/ui";
 
 export const metadata = {
   title: "Page not found",
-  description: "The page you're looking for doesn't exist on maxera.ai.",
+  description: "The page you’re looking for doesn’t exist on maxera.ai.",
 };
 
 export default function NotFound() {
@@ -15,12 +15,12 @@ export default function NotFound() {
         <h1
           className="heading-1 mt-10 max-w-4xl text-5xl text-ink-50 sm:text-6xl md:text-7xl lg:text-[5.5rem]"
         >
-          We couldn't find that page.{" "}
+          We couldn’t find that page.{" "}
           <span
             className="italic text-saffron"
             style={{ fontVariationSettings: '"opsz" 144, "SOFT" 100, "WONK" 1' }}
           >
-            Let's get you back on track.
+            Let’s get you back on track.
           </span>
         </h1>
         <p className="body-lead mt-10 max-w-2xl text-lg text-ink-100 md:text-xl">

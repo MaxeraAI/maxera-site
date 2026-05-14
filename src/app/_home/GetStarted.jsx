@@ -29,7 +29,7 @@ export function GetStarted() {
               </span>
             </h2>
             <p className="body-lead mt-10 max-w-xl">
-              Most owners we talk to have been thinking about AI for months and haven't made a single decision. Fifteen minutes with us and you'll know exactly what to do next, whether you hire us or not.
+              Most owners we talk to have been thinking about AI for months and haven’t made a single decision. Fifteen minutes with us and you’ll know exactly what to do next, whether you hire us or not.
             </p>
 
             <div className="mt-12 flex flex-wrap items-center gap-4">
@@ -116,5 +116,5 @@ function GiftCard() {
 const COVERS = [
   "The actual cost of doing nothing for another quarter.",
   "The one workflow in your business AI should handle first.",
-  "Whether we're the right fit, even if we're not.",
+  "Whether we’re the right fit, even if we’re not.",
 ];

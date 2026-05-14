@@ -101,12 +101,12 @@ function PostBody() {
             <p>
               Customer service was handling more tickets than the team could close in a day. Inventory questions
               bounced between Slack threads and warehouse calls. Supplier coordination happened in five email
-              chains and a shared spreadsheet that nobody trusted. The founder didn't have a real-time view of
+              chains and a shared spreadsheet that nobody trusted. The founder didn’t have a real-time view of
               any of it.
             </p>
             <p>
-              It wasn't a staffing problem. It was the same operating problem most growing ecommerce brands hit:
-              more volume than the systems can absorb, work spread across tools that don't talk to each other,
+              It wasn’t a staffing problem. It was the same operating problem most growing ecommerce brands hit:
+              more volume than the systems can absorb, work spread across tools that don’t talk to each other,
               and a team running on overtime to paper over the gaps.
             </p>
 
@@ -128,7 +128,7 @@ function PostBody() {
             </p>
 
             <blockquote>
-              For the first time in a year, I can see what's actually happening in the business in real time.
+              For the first time in a year, I can see what’s actually happening in the business in real time.
               The team is back to running operations, not chasing them.
               <cite>Illustrative scenario · The kind of feedback we hear from a mid-market ecommerce founder</cite>
             </blockquote>
@@ -144,9 +144,9 @@ function PostBody() {
               pinging four people across Slack.
             </p>
             <p>
-              These outcomes vary. They're not a guarantee. They're the patterns we see in mid-market ecommerce
+              These outcomes vary. They’re not a guarantee. They’re the patterns we see in mid-market ecommerce
               operations when the systems get built properly, integrated into the tools the team already uses,
-              and adopted because they're easier than the old way.
+              and adopted because they’re easier than the old way.
             </p>
           </div>
         </article>

@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { Container, Eyebrow } from "../../_shared/ui";
 
 const PARAGRAPHS = [
-  "Most companies have heard about AI for two years and still haven't built anything with it. They've read the threads, watched the tutorials, subscribed to the tools their team never uses. The reading has become the activity. The doing hasn't started.",
+  "Most companies have heard about AI for two years and still haven’t built anything with it. They’ve read the threads, watched the tutorials, subscribed to the tools their team never uses. The reading has become the activity. The doing hasn’t started.",
   "We exist because someone has to actually ship the work. We are not a strategy-deck consultancy. We are not a tool reseller. We are not a chatbot agency. We figure out where AI fits in your business, we build it, we deploy it, and we train your team until it sticks. That is the whole job.",
   "Owned by you. Built by us.",
 ];

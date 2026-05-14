@@ -7,7 +7,7 @@ import { Container, SectionHeader } from "../_shared/ui";
 const ITEMS = [
   {
     q: "How much does this cost?",
-    a: "Every engagement is scoped specifically to your business and the systems we identify, so pricing varies meaningfully. We'll send you a clear scope and quote after the first conversation, once we understand your situation. No surprises and no recurring fees you haven't agreed to.",
+    a: "Every engagement is scoped specifically to your business and the systems we identify, so pricing varies meaningfully. We’ll send you a clear scope and quote after the first conversation, once we understand your situation. No surprises and no recurring fees you haven’t agreed to.",
   },
   {
     q: "Do I need to know anything about AI before we talk?",
@@ -18,8 +18,8 @@ const ITEMS = [
     a: "It depends on the scope. Diagnostic engagements typically run a few weeks. Full transformation engagements run one to three months. Long-term partnerships are ongoing.",
   },
   {
-    q: "What if I already have AI tools and they're not working?",
-    a: "That's a common situation. Companies buy AI tools, never deploy them properly, and assume AI doesn't work for them. We can review what you have, fix what's broken, and replace what isn't worth saving.",
+    q: "What if I already have AI tools and they’re not working?",
+    a: "That’s a common situation. Companies buy AI tools, never deploy them properly, and assume AI doesn’t work for them. We can review what you have, fix what’s broken, and replace what isn’t worth saving.",
   },
 ];
 
@@ -33,7 +33,7 @@ export function FAQ() {
               eyebrow="Common questions"
               index={6}
               title="Asked before the first call."
-              lede="The questions every operator asks before booking a call. Answered up front so they don't slow you down."
+              lede="The questions every operator asks before booking a call. Answered up front so they don’t slow you down."
             />
           </div>
           <div className="lg:col-span-7">

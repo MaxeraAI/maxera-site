@@ -28,11 +28,11 @@ export function CTAStrip() {
               className="italic text-saffron"
               style={{ fontVariationSettings: '"opsz" 144, "SOFT" 100, "WONK" 1' }}
             >
-              Let's find out.
+              Let’s find out.
             </span>
           </h2>
           <p className="body-lead mt-8 max-w-xl">
-            Fifteen minutes. We figure out the one or two workflows where AI would actually move the needle for your business, and tell you whether we're the right team to build them. No pitch deck. No pressure.
+            Fifteen minutes. We figure out the one or two workflows where AI would actually move the needle for your business, and tell you whether we’re the right team to build them. No pitch deck. No pressure.
           </p>
           <div className="mt-10 flex flex-wrap items-center gap-4">
             <Button href="/contact" size="lg" variant="primary" showArrow>
