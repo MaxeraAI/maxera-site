@@ -38,12 +38,21 @@ export const metadata = {
       "An AI Transformation Partner for US businesses. We figure out where AI fits in your business, then we build it, deploy it, and train your team to use it.",
     type: "website",
     siteName: "Maxera",
+    images: [
+      {
+        url: "/img/og-card.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Maxera · Stop reading about AI. Start putting it to work.",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Maxera · Stop reading about AI. Start putting it to work.",
     description:
       "An AI Transformation Partner for US businesses. We figure out where AI fits in your business, then we build it, deploy it, and train your team to use it.",
+    images: ["/img/og-card.jpg"],
   },
 };
 
