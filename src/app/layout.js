@@ -35,24 +35,15 @@ export const metadata = {
   openGraph: {
     title: "Maxera · Stop reading about AI. Start putting it to work.",
     description:
-      "An AI Transformation Partner for US businesses. We figure it out, build it, and train your team to use it.",
+      "An AI Transformation Partner for US businesses. We figure out where AI fits in your business, then we build it, deploy it, and train your team to use it.",
     type: "website",
     siteName: "Maxera",
-    images: [
-      {
-        url: "/img/og-card.jpg",
-        width: 2048,
-        height: 1152,
-        alt: "Maxera · Stop reading about AI. Start putting it to work.",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Maxera · Stop reading about AI. Start putting it to work.",
     description:
-      "An AI Transformation Partner for US businesses. We figure it out, build it, and train your team to use it.",
-    images: ["/img/og-card.jpg"],
+      "An AI Transformation Partner for US businesses. We figure out where AI fits in your business, then we build it, deploy it, and train your team to use it.",
   },
 };
 
