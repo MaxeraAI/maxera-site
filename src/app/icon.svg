@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" version="1.1">
-  <path
-    stroke-miterlimit="2"
-    d="M 40.50704,40.000002 V 160 H 55.718308 V 67.211269 L 82.591547,115.21127 90.704223,101.35211 56.563378,40.000002 Z m 103.09859,0 -43.605633,77.915488 -7.943662,13.85916 3.71831,6.59155 h 8.619715 L 144.28169,67.211269 V 160 h 15.21126 V 40.000002 Z"
-    fill="currentColor"
-    stroke="none" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="22" fill="#0A0A0B"/>
+  <path d="M 50,158 L 50,50 L 100,120 L 150,50 L 150,158"
+        stroke="#F5C518"
+        stroke-width="28"
+        stroke-linecap="square"
+        stroke-linejoin="miter"
+        stroke-miterlimit="6"
+        fill="none"/>
 </svg>
